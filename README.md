@@ -13,3 +13,7 @@
     1. Add a class called "main-pg" to the paragraph element.
     2. In the CSS file, create a rule for the .main-pg class. You don't need to write any style instructions yet.
     3. Give the paragraph a border that is 4px wide, solid and red.
+5. Test: Adding a Style to several Elements using Class
+    1. Add a class called "social-links" to each anchor tag.
+    2. In the CSS file, create a rule for the .social-links class. You don't need to write any style instructions yet.
+    3. In the CSS file, use the class to give both <a> tags 15px of padding and 10px of margin.

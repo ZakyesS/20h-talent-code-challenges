@@ -9,3 +9,7 @@
 3. Test: Create an Unordered List
     1. Add an unordered list element between the <body> tags.
     2. Add three list item tags to the unordered list, and list three places you have visited or would like to visit.
+4. Test: Styling by Element and Class
+    1. Add a class called "main-pg" to the paragraph element.
+    2. In the CSS file, create a rule for the .main-pg class. You don't need to write any style instructions yet.
+    3. Give the paragraph a border that is 4px wide, solid and red.

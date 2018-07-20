@@ -7,7 +7,7 @@
     2. Put the text in a paragraph tag.
     3. Set the anchor tag so that it points to the top of the page. (Hint: you'll need the href attribute.)
 3. Test: Create an Unordered List
-    1. Add an unordered list element between the <body> tags.
+    1. Add an unordered list element between the ```<body>``` tags.
     2. Add three list item tags to the unordered list, and list three places you have visited or would like to visit.
 4. Test: Styling by Element and Class
     1. Add a class called "main-pg" to the paragraph element.
@@ -16,4 +16,8 @@
 5. Test: Adding a Style to several Elements using Class
     1. Add a class called "social-links" to each anchor tag.
     2. In the CSS file, create a rule for the .social-links class. You don't need to write any style instructions yet.
-    3. In the CSS file, use the class to give both <a> tags 15px of padding and 10px of margin.
+    3. In the CSS file, use the class to give both ```<a>``` tags 15px of padding and 10px of margin.
+6. Test: Write and Style an Element
+    1. Set up your HTML document with the ```<!doctype>``` and ```<html>``` tags.
+    2. Now add the two tags that should always be nested within the ```<html></html>``` element.
+    3. Between the ```<head>``` and ```</head>``` tags, give your web page a ```<title>```.

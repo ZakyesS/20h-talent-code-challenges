@@ -28,3 +28,6 @@
     1. Set the main headline to a heading level 1 element. Then, place the line of text below the main headline inside opening and closing paragraph tags.
     2. Next, set the subheading to a heading level 2 element and the line of text below it to a paragraph element.
     3. Finally, set the third heading to a heading level 3 element and the text below it to a paragraph.
+9. Test: Lists and Links Challenge
+    1. Convert the text inside the ```<body>``` tags into an unordered list.
+    2. Make the text inside each list item a link. The first item should link to *cakes.html*, the second to *pies.html* and the third to *candy.html*.

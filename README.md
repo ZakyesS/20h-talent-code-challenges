@@ -31,8 +31,12 @@
 9. Test: Lists and Links Challenge
     1. Convert the text inside the ```<body>``` tags into an unordered list.
     2. Make the text inside each list item a link. The first item should link to *cakes.html*, the second to *pies.html* and the third to *candy.html*.
-10. Structuring Content Challenge
+10. Test: Structuring Content Challenge
     1. Place the *ul*, *h1* and *p* elements at the top of the page inside an element that represents a group of introductory content.
     2. Next, place the paragraphs at the bottom of the page inside an element that typically contains information about the site, copyright data or related links.
     3. Place the content between the header and footer (*h2*, *p* and *ul*) inside an element that represents standalone sections of content.
     4. Finally, place the top ```<ul>``` inside an element that represents a major section of navigation.
+11. Test: Grouping Content Challenge
+    1. Group each set of *h3* and *p* elements using an element that describes self-contained pieces of content.
+    2. Next, place the "social media" heading and list of links inside an element that represents a section of content that's indirectly related to the main content of the page.
+    3. Finally, place the *h2* and articles inside an element that represents the main content of the ```<body>``` of the page.

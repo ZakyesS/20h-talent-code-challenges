@@ -21,3 +21,6 @@
     1. Set up your HTML document with the ```<!doctype>``` and ```<html>``` tags.
     2. Now add the two tags that should always be nested within the ```<html></html>``` element.
     3. Between the ```<head>``` and ```</head>``` tags, give your web page a ```<title>```.
+7. Test: Link It Up Challenge
+    1. Put a set of anchor tags around "Menu" in the last list item.
+    2. Add an *href* attribute to the anchor tag, and point it to another webpage called *"menu.html"*.

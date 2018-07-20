@@ -24,3 +24,7 @@
 7. Test: Link It Up Challenge
     1. Put a set of anchor tags around "Menu" in the last list item.
     2. Add an *href* attribute to the anchor tag, and point it to another webpage called *"menu.html"*.
+8. Test: Headings and Paragraphs Challenge
+    1. Set the main headline to a heading level 1 element. Then, place the line of text below the main headline inside opening and closing paragraph tags.
+    2. Next, set the subheading to a heading level 2 element and the line of text below it to a paragraph element.
+    3. Finally, set the third heading to a heading level 3 element and the text below it to a paragraph.

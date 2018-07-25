@@ -1,0 +1,22 @@
+#  Make It Beautiful with CSS #
+# ---
+#
+# Margin and padding are used to increase and decrease the amount of space around an element.
+1
+a
+
+# Which of the following is an example of a CSS property?
+2
+c
+
+# Given this CSS rule, what will the browser do?
+3
+b
+
+# If you forget to enclose your CSS styles in curly braces { }, the browser will:
+4
+a
+
+# If you have a <p> element with a class called “left-column”, which of the following selectors would you use to style it in the CSS?
+5
+b

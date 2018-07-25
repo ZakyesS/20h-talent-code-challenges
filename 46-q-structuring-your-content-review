@@ -1,0 +1,30 @@
+# Structuring Your Content #
+# ---
+#
+# Introductory content like the site logo, navigation and main heading should be placed inside which element?
+1
+a
+
+# Which element should be used only when no other semantic element (like <article> or <aside>) is appropriate? 
+2
+a
+
+# The first element inside a <section> should be: 
+3
+b
+
+# Markup that describes the meaning of content rather than define its presentation is: 
+4
+a
+
+# The content of a ______ element should be unique to the document; therefore, you should use it only once per page.
+5
+b
+
+# Which element describes a self-contained piece of content, like a blog entry? 
+6
+c
+
+# The aside element contains content that's indirectly related to the main content of the page.
+7
+aside
